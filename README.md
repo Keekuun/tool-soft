@@ -2,6 +2,15 @@
 一些工具软件
 
 
+## mac 软件下载
+
++ https://www.digit77.com/categories/
+
++ https://macwk.cn/paixingbang
+
++ https://xclient.info/
+
+
 
 ## 一些开源的下载器项目
 ### 🌟 视频下载器
